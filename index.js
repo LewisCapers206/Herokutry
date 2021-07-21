@@ -5,7 +5,7 @@ const app = express();
 
 app.get('/', (req, res) => {
   res.send(
-    `<p>API - An application programming interface, is a computing interface that defines interactions between multiple software intermediaries</p>`
+    `<h1>Hello and welcome to my blank page!`
   );
 });
 
