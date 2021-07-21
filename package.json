@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LewisCapers206/Herokutry/issues"
   },
-  "homepage": "https://github.com/LewisCapers206/Herokutry#readme"
+  "homepage": "https://github.com/LewisCapers206/Herokutry#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
